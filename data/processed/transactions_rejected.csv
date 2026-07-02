@@ -1,0 +1,10 @@
+transaction_id,account_id,merchant_id,timestamp,amount,currency,transaction_type,status,amount_parsed,timestamp_parsed,duplicate_transaction_id,invalid_amount,invalid_timestamp,invalid_currency,invalid_transaction_type,invalid_status,invalid_account,invalid_merchant
+T0007,A011,M007,2025-01-10 18:50:00,,EUR,Purchase,Completed,,2025-10-01 18:50:00,False,True,False,False,False,False,False,False
+T0012,A016,M012,2025-02-30 09:45:00,22.3,EUR,Purchase,Completed,22.3,,False,False,True,False,False,False,False,False
+T0018,A003,M004,2025-01-26 12:44:00,not_available,EUR,Purchase,Completed,,2025-01-26 12:44:00,False,True,False,False,False,False,False,False
+T0028,A002,M014,2025-02-09 14:30:00,9.8,,Purchase,Completed,9.8,2025-09-02 14:30:00,False,False,False,True,False,False,False,False
+T0040,A014,M005,2025-02-27 12:10:00,-68.20,EUR,Purchase,Completed,-68.2,2025-02-27 12:10:00,False,True,False,False,False,False,False,False
+T0045,A006,M012,2025-03-06 11:05:00,26.4,EUR,Purchase,Completed,26.4,2025-06-03 11:05:00,True,False,False,False,False,False,False,False
+T0051,A999,M010,2025-03-15 21:25:00,11.5,EUR,Purchase,Completed,11.5,2025-03-15 21:25:00,False,False,False,False,False,False,True,False
+T0054,A013,M999,2025-03-20 12:30:00,46.95,EUR,Purchase,Completed,46.95,2025-03-20 12:30:00,False,False,False,False,False,False,False,True
+T0045,A006,M010,2025-03-06 11:05:00,99.99,EUR,Purchase,Completed,99.99,2025-06-03 11:05:00,True,False,False,False,False,False,False,False
