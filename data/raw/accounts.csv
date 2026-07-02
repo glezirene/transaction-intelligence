@@ -1,0 +1,17 @@
+account_id,customer_id,account_type,currency,opening_date,status
+A001,C001,Current,EUR,2023-01-16,Active
+A002,C001,Savings,EUR,2023-03-01,Active
+A003,C002,Current,EUR,2022-06-04,Active
+A004,C002,Savings,USD,2022-07-15,Active
+A005,C003,Current,EUR,2024-02-12,Active
+A006,C004,Current,EUR,2021-09-28,Active
+A007,C004,Savings,EUR,2022-01-10,Active
+A008,C005,Current,EUR,2023-07-20,Active
+A009,C006,Current,EUR,2020-11-09,Active
+A010,C006,Savings,EUR,2021-02-20,Dormant
+A011,C007,Current,EUR,2024-05-23,Active
+A012,C008,Current,EUR,2022-02-15,Active
+A013,C009,Current,EUR,2025-01-11,Active
+A014,C010,Current,EUR,2021-05-01,Active
+A015,C011,Current,EUR,2023-10-06,Active
+A016,C012,Current,EUR,2019-12-19,Active
