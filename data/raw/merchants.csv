@@ -1,0 +1,16 @@
+merchant_id,merchant_name,category,country,online
+M001,Green Market,Groceries,Spain,False
+M002,Urban Coffee,Restaurants,Spain,False
+M003,Book Planet,Books,Spain,True
+M004,Tech World,Electronics,Germany,True
+M005,Fresh Basket,Groceries,France,False
+M006,Cloud Store,Electronics,Ireland,True
+M007,Fit Zone,Sports,Spain,False
+M008,Travel Now,Travel,Netherlands,True
+M009,Home Corner,Home,Portugal,True
+M010,Cinema Central,Entertainment,Spain,False
+M011,Style Avenue,Fashion,Italy,True
+M012,Daily Pharmacy,Health,Spain,False
+M013,Game Box,Entertainment,France,True
+M014,Stationery Hub,Office,Spain,True
+M015,Sun Hotel,Travel,Portugal,False
