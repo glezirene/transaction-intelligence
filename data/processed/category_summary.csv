@@ -1,0 +1,12 @@
+merchant_category,transaction_count,unique_customers,unique_merchants,total_absolute_amount,total_net_amount,average_amount,median_amount,international_transactions,total_commission
+Books,5,3,1,105.46,65.48,21.09,19.99,2,1.27
+Electronics,8,6,2,2270.88,1701.88,283.86,179.95,6,25.53
+Entertainment,6,4,2,252.47,252.47,42.08,49.99,4,3.78
+Fashion,5,5,1,527.45,527.45,105.49,96.75,5,7.91
+Groceries,8,5,2,348.95,321.85,43.62,38.28,5,4.83
+Health,1,1,1,17.9,17.9,17.9,17.9,0,0.27
+Home,3,3,1,263.85,263.85,87.95,74.5,3,3.96
+Office,2,2,1,26.85,26.85,13.42,13.42,1,0.4
+Restaurants,6,4,1,33.0,33.0,5.5,5.35,4,0.49
+Sports,2,2,1,134.5,134.5,67.25,67.25,2,2.02
+Travel,6,4,2,2325.0,2325.0,387.5,365.0,5,34.87

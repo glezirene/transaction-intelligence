@@ -1,0 +1,4 @@
+customer_segment,unique_customers,transaction_count,completed_transactions,declined_transactions,total_net_amount,average_transaction_amount,total_commission,decline_rate
+Premium,5,22,20,2,2493.03,135.42,37.39,9.09
+Standard,5,23,22,1,2751.74,126.16,41.57,4.35
+Student,2,7,7,0,425.46,60.78,6.37,0.0

@@ -1,0 +1,16 @@
+merchant_id,merchant_name,merchant_category,merchant_country,transaction_count,unique_customers,total_net_amount,average_amount,maximum_amount,declined_transactions,total_commission
+M015,Sun Hotel,Travel,Portugal,3,3,1575.0,525.0,625.0,0,23.63
+M004,Tech World,Electronics,Germany,4,3,1498.89,489.47,899.0,1,22.48
+M008,Travel Now,Travel,Netherlands,3,3,750.0,250.0,320.0,0,11.24
+M011,Style Avenue,Fashion,Italy,5,5,527.45,105.49,145.9,0,7.91
+M009,Home Corner,Home,Portugal,3,3,263.85,87.95,130.6,0,3.96
+M013,Game Box,Entertainment,France,4,4,223.97,55.99,64.0,0,3.35
+M006,Cloud Store,Electronics,Ireland,4,4,202.99,78.25,110.0,1,3.05
+M001,Green Market,Groceries,Spain,6,3,188.1,35.87,48.25,1,2.82
+M007,Fit Zone,Sports,Spain,2,2,134.5,67.25,82.5,0,2.02
+M005,Fresh Basket,Groceries,France,2,2,133.75,66.88,71.35,0,2.01
+M003,Book Planet,Books,Spain,5,3,65.48,21.09,24.99,0,1.27
+M002,Urban Coffee,Restaurants,Spain,6,4,33.0,5.5,7.4,0,0.49
+M010,Cinema Central,Entertainment,Spain,2,2,28.5,14.25,15.5,0,0.43
+M014,Stationery Hub,Office,Spain,2,2,26.85,13.42,14.25,0,0.4
+M012,Daily Pharmacy,Health,Spain,1,1,17.9,17.9,17.9,0,0.27

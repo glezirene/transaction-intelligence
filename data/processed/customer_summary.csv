@@ -1,0 +1,13 @@
+customer_id,customer_segment,customer_country,transactions_count,completed_transactions,declined_transactions,refund_transactions,total_absolute_amount,total_net_amount,average_amount,median_amount,maximum_amount,unique_merchants,unique_categories,international_transactions,total_commission,international_transaction_rate,decline_rate
+C002,Premium,Spain,6,6,0,0,1255.79,1255.79,209.3,174.5,540.0,6,4,4,18.83,66.67,0.0
+C008,Standard,Spain,4,4,0,0,1162.25,1162.25,290.56,232.95,625.0,4,3,4,17.44,100.0,0.0
+C001,Standard,Spain,8,8,0,0,1127.07,1087.09,140.88,27.39,899.0,7,6,3,16.59,37.5,0.0
+C004,Premium,Germany,6,5,1,0,1274.4,815.4,212.4,166.2,459.0,5,5,4,12.23,66.67,16.67
+C009,Student,Netherlands,3,3,0,0,289.49,289.49,96.5,74.5,155.0,3,3,2,4.34,66.67,0.0
+C005,Standard,Spain,4,3,1,0,324.5,214.5,81.12,86.2,130.6,4,4,3,3.22,75.0,25.0
+C011,Standard,Spain,4,4,0,0,186.1,186.1,46.52,35.72,96.75,3,3,1,2.8,25.0,0.0
+C010,Premium,Ireland,3,3,0,0,177.99,177.99,59.33,44.99,120.0,3,2,3,2.67,100.0,0.0
+C006,Premium,Italy,4,3,1,0,197.95,170.85,49.49,40.92,89.0,2,2,4,2.56,100.0,25.0
+C003,Student,France,4,4,0,0,135.97,135.97,33.99,32.49,52.0,3,3,4,2.03,100.0,0.0
+C007,Standard,Portugal,3,3,0,0,101.8,101.8,33.93,7.4,88.8,2,2,3,1.52,100.0,0.0
+C012,Premium,France,3,3,0,0,73.0,73.0,24.33,5.1,64.0,2,2,2,1.1,66.67,0.0

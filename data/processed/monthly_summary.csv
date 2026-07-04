@@ -1,0 +1,13 @@
+year,month,month_name,transaction_count,unique_customers,completed_transactions,declined_transactions,total_net_amount,average_amount,total_commission
+2025,1,January,11,8,10,1,745.63,70.25,11.18
+2025,2,February,11,10,10,1,895.63,91.42,13.42
+2025,3,March,12,8,11,1,1985.35,207.03,30.08
+2025,4,April,2,2,2,0,159.2,79.6,2.38
+2025,5,May,3,3,3,0,413.99,138.0,6.2
+2025,6,June,2,2,2,0,267.8,133.9,4.02
+2025,7,July,2,2,2,0,78.25,39.12,1.17
+2025,8,August,1,1,1,0,62.4,62.4,0.94
+2025,9,September,2,2,2,0,108.99,54.5,1.64
+2025,10,October,2,1,2,0,423.99,212.0,6.36
+2025,11,November,2,2,2,0,402.5,201.25,6.04
+2025,12,December,2,2,2,0,126.5,63.25,1.9
