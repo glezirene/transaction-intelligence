@@ -1,0 +1,9 @@
+,value
+seed,42
+dataset_tier,development
+customers,100
+accounts,119
+merchants,80
+transactions,1000
+injected_anomalies,9
+transaction_memory_mb,0.385

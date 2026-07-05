@@ -1,0 +1,81 @@
+merchant_id,merchant_name,category,country,currency,online
+M00001,Groceries Spain Hub,Groceries,Spain,EUR,False
+M00002,Groceries France Hub,Groceries,France,EUR,False
+M00003,Groceries Germany Hub,Groceries,Germany,EUR,False
+M00004,Groceries Italy Hub,Groceries,Italy,EUR,False
+M00005,Groceries Portugal Hub,Groceries,Portugal,EUR,False
+M00006,Groceries Ireland Hub,Groceries,Ireland,EUR,False
+M00007,Groceries United Kingdom Hub,Groceries,United Kingdom,GBP,False
+M00008,Groceries United States Hub,Groceries,United States,USD,False
+M00009,Restaurants Spain Hub,Restaurants,Spain,EUR,False
+M00010,Restaurants France Hub,Restaurants,France,EUR,False
+M00011,Restaurants Germany Hub,Restaurants,Germany,EUR,False
+M00012,Restaurants Italy Hub,Restaurants,Italy,EUR,False
+M00013,Restaurants Portugal Hub,Restaurants,Portugal,EUR,False
+M00014,Restaurants Ireland Hub,Restaurants,Ireland,EUR,False
+M00015,Restaurants United Kingdom Hub,Restaurants,United Kingdom,GBP,False
+M00016,Restaurants United States Hub,Restaurants,United States,USD,False
+M00017,Books Spain Hub,Books,Spain,EUR,True
+M00018,Books France Hub,Books,France,EUR,True
+M00019,Books Germany Hub,Books,Germany,EUR,True
+M00020,Books Italy Hub,Books,Italy,EUR,True
+M00021,Books Portugal Hub,Books,Portugal,EUR,True
+M00022,Books Ireland Hub,Books,Ireland,EUR,True
+M00023,Books United Kingdom Hub,Books,United Kingdom,GBP,True
+M00024,Books United States Hub,Books,United States,USD,True
+M00025,Electronics Spain Hub,Electronics,Spain,EUR,True
+M00026,Electronics France Hub,Electronics,France,EUR,True
+M00027,Electronics Germany Hub,Electronics,Germany,EUR,True
+M00028,Electronics Italy Hub,Electronics,Italy,EUR,True
+M00029,Electronics Portugal Hub,Electronics,Portugal,EUR,True
+M00030,Electronics Ireland Hub,Electronics,Ireland,EUR,True
+M00031,Electronics United Kingdom Hub,Electronics,United Kingdom,GBP,True
+M00032,Electronics United States Hub,Electronics,United States,USD,True
+M00033,Sports Spain Hub,Sports,Spain,EUR,False
+M00034,Sports France Hub,Sports,France,EUR,False
+M00035,Sports Germany Hub,Sports,Germany,EUR,False
+M00036,Sports Italy Hub,Sports,Italy,EUR,False
+M00037,Sports Portugal Hub,Sports,Portugal,EUR,False
+M00038,Sports Ireland Hub,Sports,Ireland,EUR,False
+M00039,Sports United Kingdom Hub,Sports,United Kingdom,GBP,False
+M00040,Sports United States Hub,Sports,United States,USD,False
+M00041,Travel Spain Hub,Travel,Spain,EUR,True
+M00042,Travel France Hub,Travel,France,EUR,True
+M00043,Travel Germany Hub,Travel,Germany,EUR,True
+M00044,Travel Italy Hub,Travel,Italy,EUR,True
+M00045,Travel Portugal Hub,Travel,Portugal,EUR,True
+M00046,Travel Ireland Hub,Travel,Ireland,EUR,True
+M00047,Travel United Kingdom Hub,Travel,United Kingdom,GBP,True
+M00048,Travel United States Hub,Travel,United States,USD,True
+M00049,Home Spain Hub,Home,Spain,EUR,True
+M00050,Home France Hub,Home,France,EUR,True
+M00051,Home Germany Hub,Home,Germany,EUR,True
+M00052,Home Italy Hub,Home,Italy,EUR,True
+M00053,Home Portugal Hub,Home,Portugal,EUR,True
+M00054,Home Ireland Hub,Home,Ireland,EUR,True
+M00055,Home United Kingdom Hub,Home,United Kingdom,GBP,True
+M00056,Home United States Hub,Home,United States,USD,True
+M00057,Entertainment Spain Hub,Entertainment,Spain,EUR,True
+M00058,Entertainment France Hub,Entertainment,France,EUR,True
+M00059,Entertainment Germany Hub,Entertainment,Germany,EUR,True
+M00060,Entertainment Italy Hub,Entertainment,Italy,EUR,True
+M00061,Entertainment Portugal Hub,Entertainment,Portugal,EUR,True
+M00062,Entertainment Ireland Hub,Entertainment,Ireland,EUR,True
+M00063,Entertainment United Kingdom Hub,Entertainment,United Kingdom,GBP,True
+M00064,Entertainment United States Hub,Entertainment,United States,USD,True
+M00065,Fashion Spain Hub,Fashion,Spain,EUR,True
+M00066,Fashion France Hub,Fashion,France,EUR,True
+M00067,Fashion Germany Hub,Fashion,Germany,EUR,True
+M00068,Fashion Italy Hub,Fashion,Italy,EUR,True
+M00069,Fashion Portugal Hub,Fashion,Portugal,EUR,True
+M00070,Fashion Ireland Hub,Fashion,Ireland,EUR,True
+M00071,Fashion United Kingdom Hub,Fashion,United Kingdom,GBP,True
+M00072,Fashion United States Hub,Fashion,United States,USD,True
+M00073,Health Spain Hub,Health,Spain,EUR,False
+M00074,Health France Hub,Health,France,EUR,False
+M00075,Health Germany Hub,Health,Germany,EUR,False
+M00076,Health Italy Hub,Health,Italy,EUR,False
+M00077,Health Portugal Hub,Health,Portugal,EUR,False
+M00078,Health Ireland Hub,Health,Ireland,EUR,False
+M00079,Health United Kingdom Hub,Health,United Kingdom,GBP,False
+M00080,Health United States Hub,Health,United States,USD,False
